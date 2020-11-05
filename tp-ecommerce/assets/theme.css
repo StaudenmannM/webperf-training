@@ -2,8 +2,8 @@
 	font-family: Muli;
 	font-weight: 600;
 	font-style: normal;
-	src: url('./fonts/muli_n6.woff') format('woff'),
-	 url('./fonts/muli_n6.woff2') format('woff2');
+	src: url('./fonts/muli_n6.woff2') format('woff2'),
+	 url('./fonts/muli_n6.woff') format('woff');
 	font-display: swap;
 }
 @font-face {
